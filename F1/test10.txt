@@ -1,0 +1,7 @@
+hello12345
+kapish123
+<<<<<<< Updated upstream
+hello456
+=======
+
+>>>>>>> Stashed changes
